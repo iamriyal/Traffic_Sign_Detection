@@ -30,5 +30,5 @@ Please follow the below steps to run this project.
 3. [TensorFlow](https://tensorflowjs.com)
 
 ### Dataset Used
-1. [Kaggle Dataset 1](https://kaggle.com/german traffic signal detection)
+1. [Kaggle Dataset 1](https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign)
 
