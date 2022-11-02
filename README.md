@@ -25,8 +25,8 @@ Please follow the below steps to run this project.
 - Project Type : Mini Project
 
 ### Platform, Libraries and Frameworks used
-1. [NodeJS](https://nodejs.org)
-2. [ExpressJS](https://expressjs.org)
+1. [Pandas] (https://pandas.pydata.org/docs/getting_started/install.html) 
+2. [Numpy] (https://numpy.org/install/) 
 3. [TensorFlow](https://tensorflowjs.com)
 4. [keras] (https://keras.io)
 
